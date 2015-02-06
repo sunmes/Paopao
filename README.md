@@ -1,2 +1,3 @@
 # Paopao
-JavaGraphics . 仿泡泡龙.
+JavaGraphics . 
+泡泡龙类型..
